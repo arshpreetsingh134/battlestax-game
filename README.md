@@ -5,7 +5,7 @@
 [![Actions Status](https://github.com/DataStax-Academy/battlestax/workflows/BattleStax%20Tests/badge.svg)](https://github.com/DataStax-Academy/battlestax/actions) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e265340f-c6a6-4d7b-b24c-438b87c67876/deploy-status)](https://app.netlify.com/sites/battlestax-tutorial/deploys)
 
-## Check out the game demo (Deployed by me using Netlify): https://musing-joliot-cbfb2f.netlify.app/
+## Check out the game demo (Deployed by me using Netlify): https://musing-joliot-cbfb2f.netlify.app/ (only works in Multiplayer Mode)
 
 Welcome to **BattleStax**, a [JAMStack](https://jamstack.org/) game that uses [Netlify](https://www.netlify.com/jamstack/), [DataStax Astra](https://dtsx.io/workshop), and [GitHub](https://github.com/) to demonstrate how to build and deploy an application using modern, scalable architectures. 
 
